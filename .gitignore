@@ -1,0 +1,36 @@
+# === Java and Maven ===
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# === Build tools ===
+build/
+dist/
+target/
+nbbuild/
+nbdist/
+bin/   
+
+# Logs and properties
+*.log
+*.properties
+
+# === NetBeans ===
+nbproject/private/
+nbproject/build-impl.xml 
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+*.iws
+out/
+
+# === VS Code ===
+.vscode/
+
+# === OS junk ===
+.DS_Store
+Thumbs.db
