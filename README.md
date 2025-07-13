@@ -3,7 +3,7 @@
 **RockPaperScissorsGame** is a fun Java-based desktop application that lets you:
 - 🎮 Play Rock, Paper, Scissors against the computer.
 - 🎵 Toggle background music for an immersive experience.
-- 🖼️ Enjoy a custom-themed GUI with assets.
+- 🖼️ Enjoy a beautifully themed GUI and intuitive controls.
 
 Built using **Java Swing GUI** and packaged with Maven.
 
@@ -14,8 +14,7 @@ Built using **Java Swing GUI** and packaged with Maven.
 - Play Rock, Paper, Scissors with a simple click interface.
 - Animated results and replay/exit options.
 - Toggle music on/off from the menu.
-- Custom icons and background graphics.
-- Responsive, modern interface.
+- Compact, modern interface.
 
 ---
 
@@ -89,8 +88,9 @@ Run this Java Swing project easily via terminal — no IDE required!
 
 ---
 
-## 🧑🏻‍💻 Author
+## 📝 Final Thoughts
 
-< Made by Pranjal Singh />
+Thank you for checking out **RockPaperScissorsGame**! 🎉  
+Feel free to explore, customize, and contribute. 🤝  
 
----
+If you liked this project, ⭐ star it on GitHub and share with friends! 🚀  
